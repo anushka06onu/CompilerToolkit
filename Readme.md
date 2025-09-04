@@ -30,16 +30,6 @@ Built with **React, JavaScript, HTML, and CSS** 🎨
 
 ---
 
-## 📂 Project Structure
 
 
-compiler-design-project/
-│── public/              # Static files
-│── src/
-│   ├── components/      # React components
-│   ├── utils/           # Grammar & parsing functions
-│   ├── styles/          # CSS styling
-│   └── App.js           # Main entry
-│── package.json
-└── README.md
 
